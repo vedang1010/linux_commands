@@ -1,0 +1,161 @@
+--2023-02-06 20:02:40--  https://as01.epimg.net/meristation/imagenes/2022/07/15/noticias/1657907079
+Resolving as01.epimg.net (as01.epimg.net)... 199.232.198.133, 199.232.194.133
+Connecting to as01.epimg.net (as01.epimg.net)|199.232.198.133|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.as.com/meristation/imagenes/2022/07/15/noticias/1657907079 [following]
+--2023-02-06 20:02:41--  https://www.as.com/meristation/imagenes/2022/07/15/noticias/1657907079
+Resolving www.as.com (www.as.com)... 199.232.194.133, 199.232.198.133
+Connecting to www.as.com (www.as.com)|199.232.194.133|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://as.com/meristation/imagenes/2022/07/15/noticias/1657907079 [following]
+--2023-02-06 20:02:42--  https://as.com/meristation/imagenes/2022/07/15/noticias/1657907079
+Resolving as.com (as.com)... 104.95.190.45, 104.95.190.46, 2600:1417:71::75ef:8d12, ...
+Connecting to as.com (as.com)|104.95.190.45|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2023-02-06 20:02:43 ERROR 404: Not Found.
+
+--2023-02-06 20:02:43--  http://587637/
+Resolving 587637 (587637)... 0.8.247.117
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:12:57--  (try: 2)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:15:09--  (try: 3)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:17:23--  (try: 4)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:19:37--  (try: 5)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:21:54--  (try: 6)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:24:10--  (try: 7)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:26:26--  (try: 8)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:28:44--  (try: 9)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:31:02--  (try:10)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:33:23--  (try:11)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:35:42--  (try:12)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:38:01--  (try:13)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:40:20--  (try:14)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:42:40--  (try:15)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:44:59--  (try:16)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 20:47:18--  (try:17)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 21:45:26--  (try:18)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 21:47:46--  (try:19)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 21:50:05--  (try:20)  http://587637/
+Connecting to 587637 (587637)|0.8.247.117|:80... failed: Connection timed out.
+Giving up.
+
+--2023-02-06 21:52:14--  http://1657907079/
+Resolving 1657907079 (1657907079)... 98.209.167.135
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 21:54:26--  (try: 2)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 21:56:38--  (try: 3)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 21:58:53--  (try: 4)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:01:07--  (try: 5)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:03:23--  (try: 6)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:05:39--  (try: 7)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:07:55--  (try: 8)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:10:13--  (try: 9)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:12:32--  (try:10)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:14:52--  (try:11)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:17:11--  (try:12)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:19:31--  (try:13)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: Connection timed out.
+Retrying.
+
+--2023-02-06 22:21:50--  (try:14)  http://1657907079/
+Connecting to 1657907079 (1657907079)|98.209.167.135|:80... failed: No route to host.
+--2023-02-06 22:21:57--  http://1657916163/
+Resolving 1657916163 (1657916163)... 98.209.203.3
+Connecting to 1657916163 (1657916163)|98.209.203.3|:80... failed: No route to host.
+--2023-02-06 22:22:00--  http://noticia/
+Resolving noticia (noticia)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘noticia’
+--2023-02-06 22:22:00--  http://normal.jpg/
+Resolving normal.jpg (normal.jpg)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘normal.jpg’
